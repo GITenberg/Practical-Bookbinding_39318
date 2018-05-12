@@ -1,0 +1,32 @@
+_repo: Practical-Bookbinding_39318
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Maw, Thomas E.
+    birthdate: 1873
+    gutenberg_agent_id: '39960'
+    url: http://www.gutenberg.org/2009/agents/39960
+covers:
+- cover_type: archival
+  image_path: 39318-h/images/i_cover.jpg
+creator:
+  author:
+    agent_name: Adam, Paul
+    gutenberg_agent_id: '5'
+    url: http://www.gutenberg.org/2009/agents/5
+description: ''
+gutenberg_bookshelf: Crafts
+gutenberg_issued: '2012-03-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39318'
+  lccn: 04016381
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bookbinding'
+- !lcc 'Z'
+title: Practical Bookbinding
+url: http://www.gutenberg.org/ebooks/39318
